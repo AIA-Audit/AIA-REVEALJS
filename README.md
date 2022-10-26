@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AIA-REVEALJS
 Presentació realitzada en Reveal JS per al projecte elaborat durant aquest curs al INS EBRE 2022-2023.
 =======
@@ -52,4 +51,3 @@ Hakim's open source work is supported by <a href="https://github.com/sponsors/ha
 <div align="center">
   MIT licensed | Copyright © 2011-2022 Hakim El Hattab, https://hakim.se
 </div>
->>>>>>> b4c55bf (Initial commit)
